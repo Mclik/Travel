@@ -1,0 +1,52 @@
+.body {
+    
+}
+.header {
+  background-image: url(./Img/Rectangle1.png);
+  background-repeat: no-repeat;
+  width: 1440px;
+  height: 765px;
+}
+
+.footer {
+    background-image: url(./Img/Rectangle27.png);
+    background-repeat: no-repeat; 
+}
+.up {
+  background-color: #ffffff;
+  opacity: 0.7;
+  width: 1445px;
+  height: 1270px;
+  top: 2404px;
+}
+.fotostore {
+  width: 400px;
+  height: 250px;
+  left: 120px;
+  padding: 20px;
+  }
+.fs1 {
+  top: 2444px;
+}
+.fs2 {
+  top: 2724px;
+}
+.fs3 {
+  top: 3004px;
+}
+.fs4 {
+  top: 3284px;
+}
+.storytext {
+  width: 760px;
+  height: 184px;
+  left: 560px;
+}
+.stories-list {
+  display: flex;
+  
+}
+.step-list {
+    background-image: url(./Img/Rectangle13.png);
+    background-repeat: no-repeat; 
+}
